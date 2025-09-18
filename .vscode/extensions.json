@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "csstools.postcss",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "nextpress.nextpress-snippets",
+        "prisma.prisma"
+    ]
+}
